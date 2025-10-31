@@ -1,0 +1,5 @@
+# radio_cli/.gitignore
+.venv/
+fmcli/__pycache__/
+*.pyc
+
